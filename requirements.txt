@@ -1,0 +1,9 @@
+langgraph>=1,<2
+groq>=0.30,<2
+mcp>=1.12,<2
+httpx>=0.28,<1
+jsonschema>=4.23,<5
+python-dotenv>=1,<2
+pytest>=8,<10
+fastapi>=0.115,<1
+uvicorn>=0.30,<1

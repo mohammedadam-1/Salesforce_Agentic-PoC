@@ -1,0 +1,11 @@
+{
+  "runtime_and_oauth_tests": {
+    "passed": 14,
+    "failed": 0
+  },
+  "syntax_check": "passed",
+  "live_model_evaluation": "not run: no credentials",
+  "live_oauth": "not run: Consumer Key and interactive org login required",
+  "salesforce_execution": "not run",
+  "object_created": false
+}
